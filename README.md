@@ -12,8 +12,6 @@
 - [🧠 Problem Statement](#-problem-statement)
 - [💡 Solution](#-solution)
 - [🛰 NASA Data Usage](#-nasa-data-usage)
-- [🔧 Technical Architecture](#-technical-architecture)
-- [📊 Business Model](#-business-model)
 - [📽️ Videos](#️-videos)
 - [🧪 Prototype](#-prototype)
 - [👥 Team Catstronauts](#-team-catstronauts)
@@ -60,8 +58,79 @@ We use **NASA Open Data** to inform design and ensure safety:
 - 🛰 **LEO congestion & station positioning** – [CelesTrak](https://celestrak.org/) & [Space-Track](https://www.space-track.org/)  
 - 📝 **Orbital debris compliance** – NASA-STD 8719.14A
 
-These datasets model **real operational conditions**, ensuring TRIGAMI integrates smoothly with existing orbital infrastructure.
+---
+
+## Tech stack (prototype):
+
+UI/UX: Figma prototype (link below)
+
+AR: planned ARKit/ARCore integration for TRIGAMI SHIFTS
+
+Hardware: carbon-fiber tiles, hinge-latch sensors
 
 ---
 
+## 📽️ Videos & Prototype Links
 
+Figma prototype :
+[Figma link](https://www.figma.com/proto/BFWSpVEixqAUDXRpRV1GDS/CATSTRONAUTS?node-id=301-2&t=NqgKmMt4nVY46fjX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
+240s presentation (YouTube):
+[240s vid](https://youtu.be/KkP_vSmsYfw?si=L9kSRHei5G8TJIGQ)
+
+---
+
+## 🧪 Prototype & Demo
+
+What we provide in this repo:
+
+Design assets and hinge sketches in prototype/ ([CAD files](https://www.tinkercad.com/things/ffVc4FUHkhp-dazzling-gogo/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d)).
+
+---
+
+## 👥 Team Catstronauts
+
+Subaita Rahman — Team Leader
+
+Asfiya Rahman Afshara — Graphics Designer
+
+---
+
+## 📅 Roadmap
+
+Hackathon (current): Concept, Figma prototype, video, README.
+
+Short term: Build a physical tile & hinge prototype; TRIGAMI SHIFTS basic AR walkthrough.
+
+Testing: Parabolic flights → ISS mockups → commercial station demos.
+
+Scale: Integrate with commercial LEO stations; adapt for lunar/Mars habitats.
+
+---
+
+## 🏆 Judging Criteria Alignment
+
+Impact: tangible payload savings and improved livability.
+
+Creativity: origami-inspired folding geometry + AR control.
+
+Validity: materials & costs informed by real ISS/LEO data.
+
+Relevance: directly answers “Commercializing LEO.”
+
+Presentation: clear demo + 240s video + Figma prototype.
+
+---
+
+##📎 References
+
+[NASA Open Data](https://data.nasa.gov)
+
+[NTRS](https://ntrs.nasa.gov)
+
+[CelesTrak](https://celestrak.org)
+
+[Space-Track](https://www.space-track.org)
+
+
+---
