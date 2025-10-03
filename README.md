@@ -92,7 +92,7 @@ Design assets and hinge sketches in prototype/ ([CAD files](https://www.tinkerca
 
 Subaita Rahman — Team Leader
 
-Asfiya Rahman Afshara — Graphics Designer
+Asfiya Rahman Afshara — UI/UX Designer
 
 ---
 
